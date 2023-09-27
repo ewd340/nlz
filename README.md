@@ -8,7 +8,7 @@ generate `.pdf` documents easily. All while supporting `SyncTeX`
 Using [vim-plug](https://github.com/junegunn/vim-plug) for example:
 
 ```
-Plug 'exd340/nlz'
+Plug 'ewd340/nlz'
 ```
 
 (TODO: add other common ways to install, such as _dein_, _packer_, _lazy.nvim_,
